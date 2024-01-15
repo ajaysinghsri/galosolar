@@ -1,0 +1,22 @@
+.logo-title{
+    font-size: 65px;
+    color: green;
+}
+.navlink{
+    font-size: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+
+}
+.signin{
+    margin-left: 300px;
+}
+.signout{
+    margin-left: 50px;
+}
+.header-bg{
+    background-color: rgba(71, 108, 255, 0.83);
+}
+.navbg{
+    background-color: yellow;
+}
